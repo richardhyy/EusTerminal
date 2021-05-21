@@ -1,5 +1,5 @@
 # EusTerminal
-Execute shell commands in Minecraft
+Execute shell commands in Minecraft server
 
 ## Commands
 
