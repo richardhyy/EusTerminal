@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="EusTerminal:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EusTerminal_jar</output-path>
+    <root id="archive" name="EusTerminal.jar">
+      <element id="module-output" name="EusTerminal" />
+    </root>
+  </artifact>
+</component>

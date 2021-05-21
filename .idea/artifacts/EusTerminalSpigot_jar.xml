@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="EusTerminalSpigot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EusTerminalSpigot_jar</output-path>
+    <root id="archive" name="EusTerminalSpigot.jar">
+      <element id="module-output" name="EusTerminalSpigot" />
+    </root>
+  </artifact>
+</component>

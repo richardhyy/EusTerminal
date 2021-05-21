@@ -1,0 +1,10 @@
+name: EusTerminal
+version: ${project.version}
+main: cc.eumc.eusterminal.EusTerminal
+api-version: 1.13
+authors: [EucalyptusLeaves]
+commands:
+  _exec:
+    permission: "eusterminal.exec"
+  _download:
+    permission: "eusterminal.download"

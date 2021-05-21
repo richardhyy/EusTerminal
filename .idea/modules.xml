@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EusTerminal.iml" filepath="$PROJECT_DIR$/EusTerminal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EusTerminalSpigot/EusTerminalSpigot.iml" filepath="$PROJECT_DIR$/EusTerminalSpigot/EusTerminalSpigot.iml" />
+    </modules>
+  </component>
+</project>

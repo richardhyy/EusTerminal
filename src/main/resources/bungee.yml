@@ -1,0 +1,3 @@
+name: EusTerminal
+version: ${project.version}
+main: cc.eumc.eusterminal.EusTerminal
